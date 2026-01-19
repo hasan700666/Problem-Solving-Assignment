@@ -13,6 +13,5 @@ rl.question("What is your name? ", (name) => {
     }
     console.log(result.join(""));
   }
-
   rl.close();
 });
